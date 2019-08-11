@@ -10,9 +10,10 @@ Pino 5V.
 2 lâmpadas ligadas à rede elétrica de 220V, 
 Ethernet Shield ao seu roteador utilizando um cabo de rede com conector RJ45.
 
-<img src="acenda luzes com Arduino_1.png" alt="some text" width=400 height=400>
-<img src="acenda luzes com Arduino_2.png" alt="some text" width=400 height=400>
+<img src="acenda luzes com Arduino.png" alt="some text" width=400 height=300>
 
 3) Créditos:
 Parte 1-
 https://www.filipeflop.com/blog/automacao-residencial-com-arduino-acenda-lampadas-pela-internet
+<img src="acenda luzes com Arduino_1.png" alt="some text" width=400 height=300>
+<img src="acenda luzes com Arduino_2.png" alt="some text" width=300 height=400>
