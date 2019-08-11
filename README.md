@@ -17,7 +17,8 @@ Ethernet Shield ao seu roteador utilizando um cabo de rede com conector RJ45.
 
 
 4) Créditos:
-Parte 1-
+
+<img src="acenda luzes com Arduino_1.png" alt="some text" width=500 height=300>
+<img src="acenda luzes com Arduino_2.png" alt="some text" width=500 height=300>
+
 https://www.filipeflop.com/blog/automacao-residencial-com-arduino-acenda-lampadas-pela-internet
-<img src="acenda luzes com Arduino_1.png" alt="some text" width=400 height=300>
-<img src="acenda luzes com Arduino_2.png" alt="some text" width=400 height=300>
