@@ -7,13 +7,13 @@ Este projeto permite que você abra a porta (ou portas) da sua casa pelo celular
 2) Pré-requisitos:
 Portas digitais 3 e 4 do Arduino;
 Pino 5V. 
-2 lâmpadas ligadas à rede elétrica de 220V, 
+2 lâmpadas ligadas à rede elétrica de 220V; 
 Ethernet Shield ao seu roteador utilizando um cabo de rede com conector RJ45.
 
-<img src="acenda luzes com Arduino.png" alt="some text" width=400 height=300>
+<img src="acenda luzes com Arduino.png" alt="some text" width=500 height=300>
 
 3) Diagrama
-<img src="arduino luzes.png" alt="some text" width=400 height=300>
+<img src="arduino luzes.png" alt="some text" width=500 height=300>
 
 
 4) Créditos:
