@@ -2,7 +2,7 @@
 
 
 1) Descrição:
-Este projeto permite que você abra a porta (ou portas) da sua casa pelo celular, via Bluetooth acionando o Arduíno. Ainda, permite que as luzes da sua casa sejam ligadas em seguida, seguindo o mesmo procedimento. Este projeto permite que você ganhe tempo e segurança ao entrar em sua casa, tanto pela rapidez em entrar quanto em andar em um ambiente iluminado.
+Este projeto permite que você abra acenda as luzes da sua casa utilizando o Arduíno.
 
 2) Pré-requisitos:
 Portas digitais 3 e 4 do Arduino;
@@ -14,7 +14,6 @@ Ethernet Shield ao seu roteador utilizando um cabo de rede com conector RJ45.
 
 3) Diagrama
 <img src="arduino luzes.png" alt="some text" width=500 height=300>
-
 
 4) Créditos:
 
