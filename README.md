@@ -13,7 +13,7 @@ Ethernet Shield ao seu roteador utilizando um cabo de rede com conector RJ45.
 <img src="acenda luzes com Arduino.png" alt="some text" width=500 height=300>
 
 3) Diagrama
-<img src="arduino luzes.png" alt="some text" width=500 height=300>
+<img src="arduino luzes.png" alt="some text" width=700 height=400>
 
 4) Créditos:
 
